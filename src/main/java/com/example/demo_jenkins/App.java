@@ -6,6 +6,6 @@ package com.example.demo_jenkins;
 public class App {
     public static void main(String[] args) {
         System.out.println("rld!");
-         System.out.println("Hello World!");
+         System.out.println("Hello Wor!");
     }
 }
